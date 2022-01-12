@@ -12,6 +12,9 @@ namespace ConsoleApp11d
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello from Aldis!");
+            Console.WriteLine("Hello just hello");
+            Console.WriteLine("This app will now officially go hard");
+            Console.WriteLine("sveiks no darjas");
         }
     }
 }

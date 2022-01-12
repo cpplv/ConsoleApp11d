@@ -11,6 +11,7 @@ namespace ConsoleApp11d
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("This app will now officially go hard");
             Console.WriteLine("sveiks no darjas");
         }
     }
